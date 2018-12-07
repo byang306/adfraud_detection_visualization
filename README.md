@@ -20,7 +20,8 @@ Run following command to inference the pretrained model on test sets, visualize 
 
 python3 inference.py --test_data=[data_file_path/xxx.pickle] --test_label=[label_file_path/xxx.pickle] --model=[pretrained_model_path/xxx.pickle]
 
-4. To run flask
+4. To run flask app
+
 Run following command:
 python backend.py
 then open http://127.0.0.1:5000/ to browse the website
