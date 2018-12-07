@@ -1,6 +1,11 @@
 # Adclick Fraud Detection Visualisation #
 
-Under Construction
+Description
+
+backend.py : the file contains flask app which serves as a restful api connect frontend visualization and backend model.
+
+
+Installation and Execution
 
 1. Data cleaning
 
